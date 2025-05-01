@@ -7,4 +7,5 @@ like this repositories
 
 if any song to add to favourites so add in navbar favourite section
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/37bd10cc-0a2d-4730-84c2-332ae5675dca)
+
