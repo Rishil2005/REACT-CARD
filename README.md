@@ -1,11 +1,12 @@
-# REACT-CARD
-it's use react.js library to make cards to added song in favourite 
+# React + Vite
 
-like this repositories
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-![image](https://github.com/user-attachments/assets/b99ca942-c8f1-4cde-b7ac-ebd7b918cb4d)
+Currently, two official plugins are available:
 
-if any song to add to favourites so add in navbar favourite section
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-![image](https://github.com/user-attachments/assets/37bd10cc-0a2d-4730-84c2-332ae5675dca)
+## Expanding the ESLint configuration
 
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
