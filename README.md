@@ -1,3 +1,19 @@
+this repositories make basic javascript library react
+
+like this repositories
+
+in this website user can add to favourite song and it is show in add navbar howmany song user added to favourite list
+
+![Screenshot 2025-05-01 134347](https://github.com/user-attachments/assets/c6a4fb99-e07b-4570-b2a8-799eeb665f7d)
+
+
+add song in favourite
+
+
+![Screenshot 2025-05-01 134549](https://github.com/user-attachments/assets/44e24ade-96b7-4cb9-accf-f773a424a0be)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
